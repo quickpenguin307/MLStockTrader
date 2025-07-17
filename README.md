@@ -5,4 +5,3 @@
 4. Run the bot with `python tradingbot.py`
 5. If you get any issues with Alpaca, refer to this [website](https://alpaca.markets/deprecated/docs/issues-and-questions/) for some common fixes.
 6. Lastly, all your data files can be logged in `/logs`
-# MLStockTrader
